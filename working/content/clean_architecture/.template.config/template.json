@@ -1,9 +1,9 @@
 {
     "$schema": "http://json.schemastore.org/template",
-    "author": "Me",
+    "author": "Wagner Souza",
     "classifications": [ "Common", "Console" ],
-    "identity": "ExampleTemplate.AsyncProject",
-    "name": "Example templates: async project",
+    "identity": "ExampleTemplate.CleanArchitectureSolution",
+    "name": "Example templates: CleanArchitectureSolution",
     "shortName": "clean_architecture",
     "sourceName": "clean_architecture",
     "tags": {
